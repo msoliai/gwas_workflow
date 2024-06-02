@@ -38,8 +38,12 @@ Each step is demonstrated with corresponding commands and scripts to guide you t
    ```R
    renv::restore()
    ```
+4. Unzip Archive.zip in the data directory:
+   ```
+   unzip Archinve.zip -d data
+   ```
 
-4. Follow the steps in the provided Jupyter Notebook or R scripts to perform the GWAS workflow.
+5. Follow the steps in the provided Jupyter Notebook or R scripts to perform the GWAS workflow.
 
 ## Conclusion
 This notebook provides a comprehensive guide to conducting a GWAS using sample data. By following the outlined steps, users can ensure high-quality data for their analysis and gain valuable insights from their GWAS results. Adjustments may be necessary when working with larger datasets or different GWAS methods.

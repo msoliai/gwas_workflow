@@ -47,4 +47,3 @@ Each step is demonstrated with corresponding commands and scripts to guide you t
 
 ## Conclusion
 This notebook provides a comprehensive guide to conducting a GWAS using sample data. By following the outlined steps, users can ensure high-quality data for their analysis and gain valuable insights from their GWAS results. Adjustments may be necessary when working with larger datasets or different GWAS methods.
-```
